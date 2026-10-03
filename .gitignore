@@ -1,0 +1,11 @@
+secrets.yaml
+.esphome/
+build/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
