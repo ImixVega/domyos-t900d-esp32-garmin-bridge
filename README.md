@@ -81,4 +81,8 @@ To projekt hobbystyczny / reverse-engineering. Używasz go na własną odpowiedz
 
 ## Licencja
 
-Licencja nie została jeszcze wybrana.
+Copyright (C) 2026 ImixVega and contributors.
+
+Projekt jest udostępniany na zasadach **GNU General Public License v3.0 or later (GPL-3.0-or-later)**. Możesz go używać, modyfikować i rozpowszechniać zgodnie z warunkami GPL. Zobacz [`LICENSE`](LICENSE).
+
+`SPDX-License-Identifier: GPL-3.0-or-later`
